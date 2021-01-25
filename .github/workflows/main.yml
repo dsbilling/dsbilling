@@ -2,22 +2,25 @@ name: Metrics
 on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: "main"}
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # You'll need to setup a personal token in your secrets.
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: DanielRTRD
           template: classic
           base: header, activity, community, repositories, metadata, habits
+          config_animated: yes
           config_timezone: Europe/Oslo
           plugin_followup: yes
           plugin_isocalendar: yes
