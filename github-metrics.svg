@@ -1131,25 +1131,25 @@
             
               <div class="entry">
                 <span class="name">Visual</span>
-                <div class="bar" style="width: 30.776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">38%</span>
+                <div class="bar" style="width: 30.872%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">39%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Hack</span>
-                <div class="bar" style="width: 26.904000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="width: 26.856%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 <span class="value">34%</span>
               </div>
             
               <div class="entry">
                 <span class="name">PHP</span>
-                <div class="bar" style="width: 14.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 14.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">18%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 8.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="width: 8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 <span class="value">10%</span>
               </div>
             
@@ -1452,7 +1452,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Europe/Oslo</span>
-          <span>Last updated Sun, 21 Feb 2021 19:08:21 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sun, 21 Feb 2021 20:10:08 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
