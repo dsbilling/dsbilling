@@ -998,8 +998,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               12
             </div>
           
@@ -1086,8 +1086,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Mon
               </div>
             
@@ -1131,26 +1131,26 @@
             
               <div class="entry">
                 <span class="name">Visual</span>
-                <div class="bar" style="width: 33.096%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">41%</span>
+                <div class="bar" style="width: 35.976%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">45%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Hack</span>
-                <div class="bar" style="width: 26.248%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">33%</span>
+                <div class="bar" style="width: 22.031999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">28%</span>
               </div>
             
               <div class="entry">
                 <span class="name">PHP</span>
-                <div class="bar" style="width: 12.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">15%</span>
+                <div class="bar" style="width: 12.671999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">16%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 8.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">11%</span>
+                <div class="bar" style="width: 9.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">12%</span>
               </div>
             
           </div>
@@ -1452,7 +1452,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Europe/Oslo</span>
-          <span>Last updated Mon, 22 Feb 2021 11:09:48 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 22 Feb 2021 12:09:45 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
