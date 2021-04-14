@@ -19,6 +19,8 @@ jobs:
           user: DanielRTRD
           template: classic
           base: header, community, repositories, metadata, habits
+          repositories_forks: yes
+          repositories_affiliations: collaborator
           config_animated: yes
           config_timezone: Europe/Oslo
           plugin_achievements: yes
