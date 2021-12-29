@@ -2,7 +2,7 @@
 
 <p align="center">My rank in Norway on Github</p>
 <p align="center">
-[![committers.top badge](https://user-badge.committers.top/norway/DanielRTRD.svg)](https://user-badge.committers.top/norway/DanielRTRD)
-[![committers.top badge](https://user-badge.committers.top/norway_private/DanielRTRD.svg)](https://user-badge.committers.top/norway_private/DanielRTRD)
-[![committers.top badge](https://user-badge.committers.top/norway_public/DanielRTRD.svg)](https://user-badge.committers.top/norway_public/DanielRTRD)
+<a href="https://user-badge.committers.top/norway/DanielRTRD"><img src="https://user-badge.committers.top/norway/DanielRTRD.svg" alt=""></a>
+<a href="https://user-badge.committers.top/norway_public/DanielRTRD"><img src="https://user-badge.committers.top/norway_public/DanielRTRD.svg" alt=""></a>
+<a href="https://user-badge.committers.top/norway_private/DanielRTRD"><img src="https://user-badge.committers.top/norway_private/DanielRTRD.svg" alt=""></a>
 </p>
