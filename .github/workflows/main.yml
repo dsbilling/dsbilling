@@ -42,3 +42,7 @@ jobs:
           plugin_habits_days: 30        # Keep only events from last 30 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: no     # Display charts section
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
