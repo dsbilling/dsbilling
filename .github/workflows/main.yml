@@ -22,7 +22,6 @@ jobs:
           repositories: 100    # Query only last 100 repositories
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
-          config_animated: yes
           config_timezone: Europe/Oslo
           plugin_followup: yes
           plugin_languages: yes
